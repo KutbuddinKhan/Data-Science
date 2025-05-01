@@ -1,7 +1,5 @@
 
 ---
-
-```markdown
 # 🧾 Student Record Management System (CLI App)
 
 A simple command-line application written in Python that allows users to manage student records. This project demonstrates foundational programming skills including working with functions, lists, dictionaries, user input, and control flow.
@@ -36,7 +34,7 @@ A simple command-line application written in Python that allows users to manage 
 
 ```bash
 cd student_record_manager
-```
+
 
 3. **Run the Python script:**
 
